@@ -1,4 +1,4 @@
-export default [
+const Data = [
   {
     id: "1",
     title: "Ulusal Egemenlik ve Cocuk Bayramı ",
@@ -24,3 +24,4 @@ export default [
     date: "29 Ekim",
   },
 ];
+export default Data;
